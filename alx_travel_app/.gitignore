@@ -1,0 +1,23 @@
+*.mysql
+*.pyc
+__pycache__
+.env
+.env.local
+
+# python
+venv/
+*.venv
+.python-version
+*.pyo
+*.pyd
+
+# vscode
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# logs
+*.log
+logs/
